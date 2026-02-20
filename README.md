@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**highimexy/highimexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High im exy, a QA Engineer with a strong Engineering background in Front-End development based in Poland.
 
-Here are some ideas to get you started:
+I don't just find bugs – I understand the architecture behind them. I bridge the gap between high-quality testing and efficient development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My main tech stack is **React, TypeScript, Golang, and Docker**, **Three.js & React Three Fiber**.
+
+Check out my latest work on my portfolio: [wkowalczyk.pl](https://wkowalczyk.pl/)
+
+**Fun Facts:**
+
+* 🛡️ Currently pursuing a Master's degree in Cybersecurity.
+* 🤖 Deeply interested in how AI can optimize QA processes.
+* 🏗️ I host my own projects on Hetzner & Cloudflare.
+* **Hobbies:** cybersecurity, high-fidelity 3D rendering, building complex systems.
+
+---
+
+### Tech Stack & Tools:
+
+* **Testing:** Jira, Postman, Browser DevTools, QA Automation.
+* **Frontend:** React, Next.js, Framer Motion, Three.js.
+* **Backend:** Golang, GORM, PostgreSQL, SQLite.
+* **Infrastructure:** Docker, Linux (Ubuntu), Bash, Hetzner Cloud.
