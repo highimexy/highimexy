@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-High im exy, a QA Engineer with a strong Engineering background in Front-End development based in Poland.
+High im exy, a QA Engineer with a strong Front and Back  based in Poland.
 
 I don't just find bugs – I understand the architecture behind them. I bridge the gap between high-quality testing and efficient development.
 
