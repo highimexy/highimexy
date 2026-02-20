@@ -4,8 +4,7 @@ High im exy, a QA Engineer with a strong Engineering background in Front-End dev
 
 I don't just find bugs – I understand the architecture behind them. I bridge the gap between high-quality testing and efficient development.
 
-
-My main tech stack is **React, TypeScript, Golang, and Docker**, **Three.js & React Three Fiber**.
+My main tech stack is **React, TypeScript, Golang, Docker, Three Fiber **.
 
 Check out my latest work on my portfolio: [wkowalczyk.pl](https://wkowalczyk.pl/)
 
@@ -14,7 +13,7 @@ Check out my latest work on my portfolio: [wkowalczyk.pl](https://wkowalczyk.pl/
 * 🛡️ Currently pursuing a Master's degree in Cybersecurity.
 * 🤖 Deeply interested in how AI can optimize QA processes.
 * 🏗️ I host my own projects on Hetzner & Cloudflare.
-* **Hobbies:** cybersecurity, high-fidelity 3D rendering, building complex systems.
+* **Hobbies:** cybersecurity, 3D rendering, building complex systems.
 
 ---
 
