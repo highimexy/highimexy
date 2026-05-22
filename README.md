@@ -1,4 +1,2 @@
-# Hey there! 👋
+I break and build things for a living
 
-QA Engineer, with ambition to create stuff
-https://wkowalczyk.pl
